@@ -1,4 +1,4 @@
-# emp-zk-tutorial
+# emp-zk project template
 
 ## Install Instructions
 
