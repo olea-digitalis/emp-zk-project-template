@@ -1,0 +1,2 @@
+This is a placeholder so that the git repo will instantiate the data directory. 
+When you run code that uses emp-zk, it will place data in the data directory.
